@@ -9,3 +9,4 @@ PyQT app to list all Living Off The Land Binaries and Scripts for Windows from [
 
 ![image](img/linux.png)
 *Linux*
+||
