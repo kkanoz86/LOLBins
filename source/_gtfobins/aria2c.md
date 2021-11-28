@@ -24,4 +24,4 @@ functions:
         echo "$COMMAND" > $TF
         chmod +x $TF
         ./aria2c --on-download-error=$TF http://x
----
+--- 
